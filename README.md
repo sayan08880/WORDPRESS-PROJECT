@@ -84,10 +84,12 @@ The project was tested for:
 
 ## 📸 Project Screenshots
 
-Add screenshots here:
+### 🛒 E-Commerce Website
+![ECOMMERCE](SCREENSHOTS/ECOMMERCE2.png)
+![Shop Page](SCREENSHOTS/ECOMMERCE3.png)
+![Cart Page](SCREENSHOTS/ECOMMERCE1.png)
 
-```md
-![Home Page](screenshots/home.png)
-![Shop Page](screenshots/shop.png)
-![Cart Page](screenshots/cart.png)
-![Contact Page](screenshots/contact.png)
+### 🛒 Portfolio Website
+![Contact Page](SCREENSHOTS/PORTFOLIO1.png)
+![Contact Page](SCREENSHOTS/PORTFOLIO2.png)
+![Contact Page](SCREENSHOTS/PORTFOLIO3.png)
